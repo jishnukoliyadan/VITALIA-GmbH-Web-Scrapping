@@ -1,0 +1,4 @@
+# Made using gitignore.io
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
